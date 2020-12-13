@@ -5,7 +5,7 @@ This is the place for sharing the ExploDroid-SLAM Robot Package. Explodroid is a
 ### Contributors
 * Prasanna Venkatesan K S (http://prassi07.github.io)
 * Manoj Surya K (https://sites.google.com/view/manojsuryakashi)
-* Tarun Sriram ()
+* Tarun Sriram (https://www.linkedin.com/in/tarun-sriram-3b584b177/)
 
 The code consists of 3 different folders
 ### ExploDroid_Pkg
