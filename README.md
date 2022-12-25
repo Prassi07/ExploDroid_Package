@@ -3,7 +3,7 @@
 
 This is the place for sharing the ExploDroid-SLAM Robot Package. Explodroid is a mobile robot built as part of the internship for Microsoft Innovation Lab. 
 ### Contributors
-* Prasanna Venkatesan K S (http://prassi07.github.io)
+* Prasanna Sriganesh (http://prassi07.github.io)
 * Manoj Surya K (https://sites.google.com/view/manojsuryakashi)
 * Tarun Sriram (https://www.linkedin.com/in/tarun-sriram-3b584b177/)
 
